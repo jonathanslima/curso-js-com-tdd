@@ -1,0 +1,25 @@
+{
+  "name": "jstdd",
+  "version": "1.0.0",
+  "description": "lib js do curso de JS com TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathanslima/curso-js-com-tdd.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "lib",
+    "library"
+  ],
+  "author": "Jonathan Lima <jonathan633.jl@gmail.com> (https://jonathanslima.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jonathanslima/curso-js-com-tdd/issues"
+  },
+  "homepage": "https://github.com/jonathanslima/curso-js-com-tdd#readme"
+}
